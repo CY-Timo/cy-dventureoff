@@ -1,0 +1,21 @@
+DESCRIPTION:
+The elders shared their ancient knowledge, revealing the secrets of magic and nature that would aid the hero in their confrontation. They imparted the wisdom of the elements, teaching the hero to harness the forces of fire, water, earth, and air.
+
+Armed with newfound understanding and the support of the village, the hero set forth, their heart aflame with determination. They knew that the fate of their realm hung in the balance, and they would not falter in the face of adversity.
+
+With each step, the hero grew closer to the lair of Paul Achedé, their mind filled with memories of battles won and lessons learned. They carried the weight of their experiences, drawing strength from the friendships they had formed and the knowledge they had acquired.
+
+The time had come for the ultimate confrontation. The hero steeled themselves, ready to face the embodiment of darkness and reclaim the harmony that had been lost. The echoes of their journey reverberated within, fueling their determination as they marched towards the final chapter of their quest.
+
+[1] Let's end this for once and for all
+
+[2] I give up actually i am too scared
+
+[3] hey can i go back to the previous boss battle? she was really hot!!
+
+COMMANDE:
+COMBAT!!!
+CHOICES:
+
+les_fichiers_texte/end/whatstheending.txt
+END

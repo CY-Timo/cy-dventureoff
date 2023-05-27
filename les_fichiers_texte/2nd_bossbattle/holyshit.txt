@@ -1,0 +1,25 @@
+DESCRIPTION:
+
+As the hero approached the entrance of the village, their eyes were drawn to a mesmerizing sight. Standing before them was the epitome of beauty, a woman whose radiance outshone the sun itself. Her presence commanded attention, and the hero couldn't help but feel an instant connection.
+
+However, to their surprise, the enchanting woman blocked their path, using her magical powers to create an impenetrable barrier. Her eyes sparkled with determination as she spoke, her voice both alluring and commanding.
+
+"You may be brave, hero, but you must prove yourself worthy of entering this village," she declared. "I am Min Denlezokté, the guardian of this realm, and I cannot allow you to pass without facing me in battle."
+
+The hero's heart raced with conflicting emotions. On one hand, they were captivated by Min Denlezokté's beauty and charm. On the other hand, they understood the importance of the trials they must endure to prove their worth.
+
+With a mixture of hesitation and determination, the hero took a step forward, meeting Min Denlezokté's gaze. "I am drawn to you, Min Denlezokté, but I understand that I must face this challenge to earn my place in the village. I accept your offer of battle," the hero replied, their voice filled with a newfound resolve.
+
+Min Denlezokté smiled, her eyes filled with both admiration and caution. "Very well, hero. Prepare yourself, for I shall not hold back. Show me your strength and conviction."
+
+The hero readied their weapon, their heart pounding in their chest.
+
+[1] Let's fight !
+
+COMMANDE:
+d
+CHOICES:
+les_fichiers_texte/2nd_bossbattle/2ndbossbattle.txt
+les_fichiers_texte/2nd_bossbattle/2ndbossbattle.txt
+les_fichiers_texte/2nd_bossbattle/2ndbossbattle.txt
+END

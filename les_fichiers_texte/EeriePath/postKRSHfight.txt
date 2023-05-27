@@ -1,0 +1,23 @@
+DESCRIPTION:
+After the ferocious confrontation with Krrraan Shhhh, the hero stood amid the grim ruins. The dilapidated remains seemed even more deserted. With renewed determination, the hero dashed forward, unwavering in his resolve.
+
+As they advanced, the path became more treacherous and the terrain more unforgiving. The hero picked his way through scattered rubble and jagged debris, his gaze fixed on the distant horizon. The ruins whispered ancient secrets, their echoes awakening a mixture of fear and caution in the hero's heart.
+
+Soon, a clearing appeared before them, bathed in the pale light filtering through the cracks in the crumbling walls. At the center of the clearing stood an imposing stone arch, the entrance to the sacred sanctuary housing the fearsome legendary dragon, Paul Achedé.
+
+
+The hero approached the arch with a mixture of reverence and apprehension. They could feel the weight of their destiny pressing upon them, the magnitude of their task looming ahead. The air crackled with anticipation, as if the forest itself held its breath, awaiting the hero's next move.
+
+[1] Let's go in!
+
+[2] Im too scared
+
+[3] I want to explore more of this world
+COMMANDE:
+COMBAT!!!
+CHOICES:
+
+les_fichiers_texte/2nd_bossbattle/holyshit.txt
+les_fichiers_texte/end/whatstheending.txt
+les_fichiers_texte/NaturePath/journeystart.txt
+END

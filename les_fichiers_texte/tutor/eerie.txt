@@ -1,0 +1,23 @@
+DESCRIPTION:
+You chose the eerie path : Let the story begin 
+
+Drawn to the mysterious aura of the eerie path, the young hero took a deep breath and forged ahead. As he ventured further, the trees seemed to whisper secrets, and the flowers emitted an otherworldly glow. Soon, he reached a serene clearing, where a small, wise figure sat cross-legged, waiting for him.
+
+Tutor: Ah, young hero, you have chosen the path shrouded in darkness. A brave choice indeed. I am *Eva-Queen*, and I'm here to guide you and teach you the ways of combat. Are you ready to begin your training?
+
+The hero hesitated, considering his options.
+
+[1] Training Combat: I'm ready to learn. Let's begin the training combat.
+
+[2] Skip Combat: I believe I'm already skilled enough. I'll skip the tutorial.
+
+[3] Try to persuade the tutor into giving you one of his well known potions.
+
+COMMANDE:
+
+CHOICES:
+
+les_fichiers_texte/EeriePath/choiceseduction.txt
+les_fichiers_texte/EeriePath/choicenocombat.txt
+les_fichiers_texte/EeriePath/choiceseduction.txt
+END

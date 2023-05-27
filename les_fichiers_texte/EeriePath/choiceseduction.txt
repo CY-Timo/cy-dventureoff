@@ -1,0 +1,36 @@
+DESCRIPTION:
+
+
+YOU: You know, this training has exhausted me, and what if we spend some good time together? I thought I saw an inn before joining you... let's go test it out together, what do you say?
+
+Eva Queen: You're dreaming, my little guy! I am your tutor, not your girlfriend! Stop right now, or I'll cast a fireball spell aimed at your butt !!"
+
+YOU: Haha, fair enough... I suppose I'll have to rely on my own skills. But before we start, could you at least share some advice or a fascinating story with me?
+
+Eva Queen: Very well, my persistent hero. Listen closely. In this realm of nature and magic, appearances can be deceiving. Do not be fooled by the tranquil beauty that surrounds you. There may be hidden dangers lurking in every shadow. Trust your instincts, and remember that true strength comes not only from physical prowess but also from understanding the intricate balance of the world around you.
+
+YOU: Thank you for the advice, mentor. I appreciate your wisdom.
+
+Eva Queen : Before you continue on your journey, let me share a brief tale of the ancient dragon that resides within these lands. This dragon, known as Rhydion, was born from the very essence of magic itself. With scales as iridescent as moonlight, Rhydion possessed immense power and wisdom. Long ago, it sought to protect the delicate harmony of nature, becoming both a guardian and a formidable force. But beware, for Rhydion's wrath can be unleashed if the balance is disrupted.
+
+YOU : So, my path leads me to face this majestic dragon?
+
+Eva Queen : Indeed, young hero. It is your destiny to face Rhydion, but remember that strength alone will not suffice. Harness the power of nature and magic, and let your heart guide your actions. Only then will you have a chance to restore equilibrium and bring peace to these lands.
+
+You: Thank you, mentor. I will embrace the challenges ahead and strive to be a worthy champion of nature and magic.
+
+With Gromuald's advice echoing in his mind, the hero set forth on his journey, determined to face the trials that awaited him and to confront the mighty dragon, Rhydion. Though his attempt at seduction may have failed, he understood that true power came from within, and he would need all his skills and wisdom to succeed in his quest.
+
+That being said, do you want to proceed? or redo the DOLL battle to ensure you understood the commands?
+
+Press [1] to proceed.
+
+Press [2] to reinitiate combat.
+
+COMMANDE:
+COMBAT!!!
+CHOICES:
+
+les_fichiers_texte/EeriePath/journeystart.txt
+les_fichiers_texte/EeriePath/choiceseduction.txt
+END

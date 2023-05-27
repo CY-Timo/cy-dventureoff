@@ -1,0 +1,17 @@
+DESCRIPTION:
+
+As the hero and leopard made their way through the dense forest, a sense of anticipation filled the air, fueling the hero's newly acquired confidence and determination. They could feel the weight of their objective and the imminent challenges ahead.
+
+Suddenly, a terrifying roar echoed through the surrounding sinister ruins, chilling the blood of the hero and his companion. The ground shook beneath their feet, heralding the arrival of a colossal figure. Emerging from the darkness was Krrraan Shhhh, a cryptic creature known for his milimetered fighting technique and his goggles that blind those who disobey him.
+
+With his frightening size and rectangular eyes, Krrraan Shhhh stood in front of the hero, blocking their path. His eyes burned with hate-filled fury. This was the final exercise in the hero's training.
+
+Without hesitation, the hero climbed down from the leopard's back, ready to face his first test. The sky was overcast and the birds had stopped singing.
+
+Press [1] to continue 
+COMMANDE:
+
+CHOICES:
+
+les_fichiers_texte/EeriePath/KRSHfight.txt
+END

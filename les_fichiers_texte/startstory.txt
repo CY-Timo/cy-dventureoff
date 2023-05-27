@@ -1,0 +1,19 @@
+DESCRIPTION:
+
+[FIRST MAJOR CHOICE!!!]
+
+On your journey, you are faced to 2 paths [first major choice] one path seems to be dark and encircled by mythical trees and eerie flowers and the other seems to be filled with temple ruins and pillars. Which path are you choosing?
+
+[1] Eerie path
+
+OR 
+
+[2] Nature Path
+COMMANDE:
+
+CHOICES:
+
+les_fichiers_texte/tutor/eerie.txt
+les_fichiers_texte/tutor/nature.txt
+END
+ 

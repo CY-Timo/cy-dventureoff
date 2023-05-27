@@ -1,0 +1,13 @@
+DESCRIPTION:
+As the hero stands before the imposing stone arch, the sacred sanctuary housing the fearsome legendary dragon, Paul Achedé, a sense of foreboding fills the air. The hero gazes upon the ruins, remnants of a once-thriving village now reduced to desolation. The village's inhabitants lay lifeless, their fate sealed by the ferocity of Paul Achedé.
+
+Paul Achedé looms before the hero, emanating an aura of menace and power. The dragon's eyes burn with an intensity that reflects the devastation it has wrought. The hero's heart pounds with a mixture of fear and determination, knowing that confronting Paul Achedé is a daunting task.
+
+Despite the overwhelming odds and the weight of loss hanging in the air, the hero's resolve remains unshaken. This pivotal moment calls for courage and strategic thinking. The hero contemplates the available options, considering the best course of action to face the formidable dragon and bring an end to the reign of terror.
+
+Within the hero's mind, thoughts race as they assess their own strengths, skills, and resources. They weigh the risks involved in engaging Paul Achedé, understanding that this battle may be their most challenging yet.
+COMMANDE:
+COMBAT!!!
+CHOICES:
+
+END

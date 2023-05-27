@@ -1,0 +1,18 @@
+DESCRIPTION:
+
+The hero, with newfound confidence and determination, embarked on the journey back to the village atop the leopard's sturdy back. As they traversed the dense forest, a sense of anticipation filled the air. The hero could feel the weight of their purpose and the upcoming challenges that awaited them.
+
+Suddenly, a thunderous roar echoed through the trees, sending shivers down their spine. The ground beneath them trembled as a colossal figure emerged from the shadows. It was Long Bear, a renowned beast known for its immense strength and ferocity.
+
+Long Bear, with its towering stature and razor-sharp claws, blocked the hero's path, his eyes gleaming with primal fury. It seemed this creature stood as the guardian, testing the hero's resolve before allowing passage.
+
+Without hesitation, the hero dismounted from the leopard's back, ready to face their first true test. The air crackled with energy as they drew their weapon, their grip steady and their eyes locked onto the formidable foe.
+
+Press [1] to proceed.
+
+COMMANDE:
+
+CHOICES:
+
+les_fichiers_texte/NaturePath/HoldenHiscockfight.txt
+END

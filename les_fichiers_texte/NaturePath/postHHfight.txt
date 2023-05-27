@@ -1,0 +1,23 @@
+DESCRIPTION:
+After the intense battle with KRSH, the hero stood amidst the aftermath, taking a moment to catch their breath and assess their surroundings. The forest seemed to hold its breath, as if acknowledging the hero's triumph. With a renewed sense of purpose, the hero pressed forward, their determination unyielding.
+
+As they continued their journey, the path became more treacherous, the terrain unforgiving. The hero maneuvered through dense thickets and over jagged rocks, their focus fixed on the distant horizon. The forest whispered ancient secrets, its echoes stirring a mix of awe and caution within the hero's heart.
+
+Soon, a clearing appeared before them, bathed in the soft glow of sunlight filtering through the canopy above. In the center of the clearing stood a towering stone arch, an entrance to the sacred realm that housed the legendary dragon, Paul Achedé.
+
+The hero approached the arch with a mixture of reverence and apprehension. They could feel the weight of their destiny pressing upon them, the magnitude of their task looming ahead. The air crackled with anticipation, as if the forest itself held its breath, awaiting the hero's next move.
+
+[1] Let's go in!
+
+[2] Im too scared
+
+[3] I want to explore more of this world
+
+COMMANDE:
+COMBAT!!!
+CHOICES:
+
+les_fichiers_texte/2nd_bossbattle/holyshit.txt
+les_fichiers_texte/end/secondone.txt
+les_fichiers_texte/EeriePath/journeystart.txt
+END

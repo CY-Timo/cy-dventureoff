@@ -1,0 +1,26 @@
+DESCRIPTION:
+    )                                                   
+	 ( /(                         (                      )  
+	 )\())   (   (              ( )\     (     (      ( /(  
+	((_)\   ))\  )(    (   (    )((_)   ))\   ))\ (   )\()) 
+	 _((_) /((_)(()\   )\  )\  ((_)_   /((_) /((_))\ (_))/  
+	| || |(_))   ((_) ((_)((_)  / _ \ (_))( (_)) ((_)| |_   
+	| __ |/ -_) | '_|/ _ \(_-< | (_) || || |/ -_)(_-<|  _|  
+	|_||_|\___| |_|  \___//__/  \__\_\ \_,_|\___|/__/ \__|
+
+WELCOME TO THE BEST GAME OF ALL TIME 
+
+WINNER OF THE BEST CHOICE AWARDS 
+
+[1] Start a new game
+[2] Pick up where you were
+[3] Leave the game
+
+COMMANDE:
+
+CHOICES:
+
+les_fichiers_texte/startstory.txt
+1
+exit
+END

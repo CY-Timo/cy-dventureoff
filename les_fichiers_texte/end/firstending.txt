@@ -1,0 +1,16 @@
+DESCRIPTION:
+As the hero stands before Paul Achedé, the legendary dragon, a surprising turn of events unfolds. Contrary to expectations, the village remains untouched, and its inhabitants are alive and well. Paul Achedé, instead of displaying aggression, shows a willingness to negotiate with the hero.
+
+This unexpected twist in the encounter presents the hero with a unique opportunity. The hero's heart, once filled with trepidation, now brims with hope and curiosity. It becomes apparent that there is more to Paul Achedé than meets the eye, and a potential resolution to the conflict may lie within diplomatic channels.
+With caution and a glimmer of optimism, the hero considers the options for engaging in a negotiation with Paul Achedé:
+
+[1] Approach Paul Achedé with an open mind and a desire to understand the dragon's perspective. Engage in a dialogue to uncover the reasons behind Paul Achedé's menacing behavior and seek a peaceful resolution.
+
+[2] Request a temporary ceasefire to allow for a safe exchange of thoughts and ideas. Use this opportunity to build trust and establish common ground between the hero and Paul Achedé.
+COMMANDE:
+
+CHOICES:
+
+les_fichiers_texte/end/firstending1.txt
+les_fichiers_texte/end/firstending2.txt
+END

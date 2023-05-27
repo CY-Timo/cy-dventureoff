@@ -1,0 +1,21 @@
+DESCRIPTION:
+As the hero ventured deeper into the heart of the village, their mind was consumed with thoughts of the imminent encounter with Paul Achedé, the mighty dragon. The echoes of their previous battles resonated within, reminding them of the strength they had gained and the challenges they had overcome.
+
+The village was abuzz with anticipation, its inhabitants aware of the hero's presence and the purpose that drove them forward. Whispers of hope and admiration filled the air, inspiring the hero to push further, their determination unyielding.
+
+Seeking guidance, the hero sought out the wise elders of the village. In a secluded chamber adorned with ancient tapestries and illuminated by flickering candlelight, the council of elders awaited the hero's arrival.
+
+The elder who spoke with a voice weathered by time and wisdom stepped forward, addressing the hero with reverence. "You have come far, young hero, and the weight of destiny rests upon your shoulders. The time has come to face Paul Achedé, the ancient dragon that guards our realm."
+
+With bated breath, the hero listened intently as the elder continued, weaving a tale of Paul Achedé's power and the delicate balance that had been disrupted. "Paul Achedé was once a protector of these lands, a creature born from the very essence of magic. But as time passed, a darkness consumed its heart, and it now threatens to unleash chaos upon our world."
+
+The hero's resolve hardened as they absorbed the elder's words. They knew that the upcoming battle with Paul Achedé would be their most formidable challenge yet, testing their skills, courage, and the alliances they had forged along their journey.
+
+Press [1] to proceed.
+
+COMMANDE:
+COMBAT!!!
+CHOICES:
+
+les_fichiers_texte/2nd_bossbattle/lastchapter.txt
+END

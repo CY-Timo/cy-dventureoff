@@ -1,0 +1,19 @@
+DESCRIPTION:
+Hero: (firmly) Krrraan Shhhh, I understand the power you possess, but I cannot turn back. The fate of my village and the balance of this realm depend on my success. Stand aside, and let me pass.
+
+Krrraan Shhhh: ................................................
+
+Hero: Oh yea... I forgot the main caractériosqtique de Krrraan Shhhh.... He never talk....
+
+Krrraan Shhhh:: shhhhhhhhhhhhh.......
+
+The hero, aware that he can't afford to give up at this stage, must pay tribute to his mentor and his village. However, Krrraan Shhhh seems just as determined. He will not allow the hero to pass... The fight seems inevitable.
+
+[1] LET'S SEE WHO'S THE STRONGEST !!!
+
+COMMANDE:
+
+CHOICES:
+
+les_fichiers_texte/EeriePath/postKRSHfight.txt
+END

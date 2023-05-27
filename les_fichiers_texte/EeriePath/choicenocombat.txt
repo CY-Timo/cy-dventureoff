@@ -1,0 +1,24 @@
+DESCRIPTION:
+
+Eva Queen:So you refuse to fight? Do you think you know better than me what should be done?
+
+You: Actually, I think I've honed my combat skills enough. I'll skip the tutorial.
+
+Eva Queen: You seem quite confident. I hope you truly have enough combat experience to survive the upcoming challenges... these surroundings are wild, you know.
+
+You: Thank you for the advice, Eva Queen. I will keep that in mind.
+
+Eva Queen: Before you go, let me share a quick backstory of the dragon that lies at the heart of these dark lands. Long ago, there was a mighty dragon known as Paul Achedé. Born from the depths of chaos, Paul Achedé possessed immense power and a desire for dominion. The villagers lived in fear, until a courageous hero challenged the dragon and sealed it away within a realm of eternal darkness. But legends say that Paul Achedé's power still lingers, waiting to be unleashed.
+
+You: So, my journey leads me to face this formidable dragon?
+
+Eva Queen: Indeed, young hero. Defeating Paul Achedé will be no easy task, but it is your destiny to confront the darkness and bring balance to these lands. Remember, true strength comes not only from combat skills, but also from wisdom, intuition, and a pure heart. May your path be guided by the light within you.
+
+Press [1] to advance!
+
+COMMANDE:
+
+CHOICES:
+
+les_fichiers_texte/EeriePath/journeystart.txt
+END

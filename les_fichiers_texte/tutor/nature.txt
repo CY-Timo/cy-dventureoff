@@ -1,0 +1,21 @@
+DESCRIPTION:
+Entranced by the allure of nature, the young hero followed the path adorned with temple ruins and pillars. The air was filled with a sense of tranquility, and the whispers of the wind carried ancient wisdom. Suddenly, he stumbled upon a clearing where a wise old tutor awaited him.
+
+Tutor: Welcome, young hero, to the path of nature and magic. I am * Gromuald Grignon * and am here to guide you and unlock the secrets of the mystic arts. Are you prepared to embark on this journey of learning?
+
+The hero pondered his options, aware of the importance of training for the challenges that awaited him.
+
+[1] Training Combat: I'm ready to learn. Let's engage in the training combat.
+
+[2] Skip Tutorial: I feel confident in my abilities. I'll skip the tutorial.
+
+[3] You are amazed by how muscular this tutor is and you try to seduce him by showing him some of your sword moves
+
+COMMANDE:
+
+CHOICES:
+
+les_fichiers_texte/NaturePath/choiceseduction.txt
+les_fichiers_texte/NaturePath/choicenocombat.txt
+les_fichiers_texte/NaturePath/choiceseduction.txt
+END

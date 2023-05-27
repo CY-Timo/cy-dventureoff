@@ -1,0 +1,24 @@
+DESCRIPTION:
+
+Gromuald Grignon:Ah, young hero, you have chosen the path shrouded in darkness. A brave choice indeed. I am here to guide you and teach you the ways of combat. Are you ready to begin your training?
+
+YOU ARE A P*SSY: Actually, I think I've honed my combat skills enough. I'll skip the tutorial.
+
+Gromuald Grignon: Ah, confidence is a double-edged sword, my young hero. Very well, if you feel ready. But let me impart some advice before you face the challenges ahead. In this eerie realm, appearances can be deceiving. Trust not the shadows, for they may hide both danger and opportunity. Stay vigilant, and be mindful of your surroundings.
+
+YOU : Thank you for the advice, tutor. I will keep that in mind.
+
+Gromuald Grignon: Before you go, let me share a quick backstory of the dragon that lies at the heart of these dark lands. Long ago, there was a mighty dragon known as Paul Achedé. Born from the depths of chaos, Paul Achedé possessed immense power and a desire for dominion. The villagers lived in fear, until a courageous hero challenged the dragon and sealed it away within a realm of eternal darkness. But legends say that Paul Achedé's power still lingers, waiting to be unleashed.
+
+YOU : So, my journey leads me to face this formidable dragon?
+
+Gromuald Grignon: Indeed, young hero. Defeating Paul Achedé will be no easy task, but it is your destiny to confront the darkness and bring balance to these lands. Remember, true strength comes not only from combat skills, but also from wisdom, intuition, and a pure heart. May your path be guided by the light within you.
+
+Press [1] to advance!
+
+COMMANDE:
+
+CHOICES:
+
+les_fichiers_texte/NaturePath/journeystart.txt
+END
